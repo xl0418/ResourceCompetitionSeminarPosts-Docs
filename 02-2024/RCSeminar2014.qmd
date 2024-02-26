@@ -12,11 +12,21 @@ library(plotly)
 library(magrittr)
 ```
 
-The video record of the seminar can be found [HERE](https://youtu.be/bPHU42xeHNQ).
-
 Two-species Lotka-Volterra competition model and the modern coexistence theory are discussed.
 
+# Materials
+
+The video record of the seminar can be found [HERE](https://youtu.be/bPHU42xeHNQ){target="_blank"}.
+
+The Mathematica notebook is [HERE](https://github.com/xl0418/ResourceCompetitionSeminarPosts-Docs/blob/main/02-2024/Docs/2%20-%20lv%20competition%20done.nb){target="_blank"}.
+
+The slides can be found [HERE](https://github.com/xl0418/ResourceCompetitionSeminarPosts-Docs/blob/main/02-2024/Docs/2%20-%20lv%20competition%20slides.pdf){target="_blank"}.
+
+
+
 # Two-species Lotka-Volterra competition model
+
+
 
 The two-species Lotka-Volterra competition model is defined as
 

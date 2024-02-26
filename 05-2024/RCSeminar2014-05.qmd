@@ -1,0 +1,22 @@
+---
+title: "05 -- The resource-consumer competition model"
+author: "Christopher Klausmeier; Liang Xu"
+date: "2024-02-22"
+categories: [Paper Discussion]
+filters:
+  - shinylive
+---
+
+In this session, we discussed three papers that argued whether the predictions from the resource-ratio theory (equivalently, the resource-consumer theory, the $R^*$ theory) have been adequately evidenced.
+
+
+![Results](figures/Results.png "Results")
+
+# References
+
+Thomas E. Miller, Jean H. Burns, Pablo Munguia, Eric L. Walters, Jamie M. Kneitel, Paul M. Richards, Nicolas Mouquet, and Hannah L. Buckley. "A Critical Review of Twenty Years’ Use of the Resource‐Ratio Theory." The American Naturalist 165, no. 4 (2005): 439-48. https://doi.org/10.1086/428681. https://www.journals.uchicago.edu/doi/abs/10.1086/428681.
+
+Wilson JB, Spijkerman E, Huisman J. Is there really insufficient support for Tilman's R* concept? A comment on Miller et al. Am Nat. 2007 May;169(5):700-6. doi: 10.1086/513113. Epub 2007 Apr 5. PMID: 17427140.
+
+T. E. Miller, J. H. Burns, P. Munguia, E. L. Walters, J. M. Kneitel, P. M. Richards, N. Mouquet, and H. L. Buckley. "Evaluating Support for the Resource‐Ratio Hypothesis: A Reply to Wilson Et Al." The American Naturalist 169, no. 5 (2007): 707-08. https://doi.org/10.1086/513110. https://www.journals.uchicago.edu/doi/abs/10.1086/513110.
+

@@ -14,6 +14,14 @@ library(magrittr)
 
 Paper discussion: The three-species problem: incorporating competitive asymmetry and intransitivity in modern coexistence theory by **Ravi Ranjan**, **Thomas Koffel**, **Christopher A. Klausmeier**. (Link to the paper will be added soon)
 
+# Materials
+
+The Mathematica notebook is [HERE](https://github.com/xl0418/ResourceCompetitionSeminarPosts-Docs/blob/main/03-2024/Docs/lv3%20v11b.nb){target="_blank"}.
+
+
+# Paper discussion
+
+
 We talked about the three species competition. There are many types of competition outcomes. They are determined by the 12 parameters in the model, i.e., the three intrinsic growth rates and 9 pairwise competition coefficients. The authors showed that the outcome of the competition is associated with the cyclic asymmetry, which is a triplet-wise quantity.
 
 > # Paper Abstract
