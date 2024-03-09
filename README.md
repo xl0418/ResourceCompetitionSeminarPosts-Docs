@@ -1,2 +1,3 @@
-# ResourceCompetitionSeminarPosts-Docs
- Materials of the resource competition seminar
+# Resource Competition Seminar Posts & Docs
+ 
+ This repository contains all posts and documents from this seminar, encompassing R code for simulation models, theoretical exploration, and more. We encourage all participants to contribute by suggesting changes, corrections, or offering suggestions. Feel free to fork this repository to access its contents. If you have contributions to the posts or code, please submit them to the main branch. I will promptly update the content to reflect your input. Additionally, kindly include your name in the author list within the post so that I may properly credit your contribution. 
